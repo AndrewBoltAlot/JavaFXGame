@@ -1,0 +1,11 @@
+ 0
+Player 0
+Player 100
+Player 100
+Player 0
+Player 0
+Player 380000
+Player 100
+Player 10900
+Player 100
+Player 0
